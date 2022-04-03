@@ -2,6 +2,8 @@
 
 2D sidescrolling platformer played with one button. Currently under development: being made in Unity with C#
 
+*heads-up: this repo contains all game code, with art assets removed for creative control*
+
 Interesting game features
 - one button player controller with automatic horizontal movement
 - all animation done through code with custom sprite swapping system
